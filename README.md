@@ -71,7 +71,8 @@ streamlit run app.py
 
 Type any English review and the app shows the predicted sentiment with a confidence score.
 
-*(Add a screenshot of the app here: `![App Screenshot](screenshot.png)`)*
+*(Add a screenshot of the app here: `<img width="927" height="540" alt="Screenshot 2026-10-29 at 10 12 13 AM" src="https://github.com/user-attachments/assets/fc523997-efbf-4fa8-953e-870e86f017be" />
+`)*
 
 ## ⚠️ Limitations
 
@@ -87,4 +88,4 @@ Type any English review and the app shows the predicted sentiment with a confide
 
 ## 👤 Author
 
-Your Name — [GitHub](https://github.com/Ashutosh20-ag)
+Your Name —  "Ashutosh Gupta"  [GitHub](https://github.com/Ashutosh20-ag)
